@@ -7,3 +7,5 @@ navigation:
     url: readme
   - title: Setup
     url: setup
+  - title: Check
+    url: test
