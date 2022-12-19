@@ -7,3 +7,5 @@ Couple of additional futures such as a navigation bar and a full page layout are
 
 ## Usage
 See [setup and customization instructions](https://kbsezginel.github.io/gh-pages-template/setup) to start using the theme.
+
+ https://mariehroy.github.io/gh-pages-template/
