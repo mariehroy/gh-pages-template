@@ -4,6 +4,6 @@ description: MMM Modeling
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: readme
   - title: Setup
     url: setup
