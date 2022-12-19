@@ -1,4 +1,6 @@
-# MMM_Modeling
+# Setup
+-------------------------
+
 Marketing Mix Model fitting and evaluation. Fit estimators and wrappers, general diagnostics, validation and performance evaluation &amp; model attribution review tools.
 
 ## A. Model Fitting, Tuning & Diagnostics
